@@ -1,7 +1,23 @@
 body {
   background-color: #873e23;
-  font-family: "Al Nile";
 }
-.first {
-    position: center;
+
+
+.submit {
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    outline: none;
+    line-height: 20px;
+    align-items: center;
+    font-weight: 600;
+    background-clip: padding-box;
+    line-height: 20px;
+    align-items: center;
+    color: darkturquoise;
+}
+
+h1 {
+    font-family: Chalkboard;
 }
